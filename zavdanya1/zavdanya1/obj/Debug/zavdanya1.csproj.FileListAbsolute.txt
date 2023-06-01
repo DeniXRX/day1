@@ -1,0 +1,7 @@
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\obj\Debug\zavdanya1.csproj.AssemblyReference.cache
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\obj\Debug\zavdanya1.csproj.CoreCompileInputs.cache
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\bin\Debug\zavdanya1.exe.config
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\bin\Debug\zavdanya1.exe
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\bin\Debug\zavdanya1.pdb
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\obj\Debug\zavdanya1.exe
+C:\Users\manzh\Desktop\GIT\day1\zavdanya1\zavdanya1\obj\Debug\zavdanya1.pdb

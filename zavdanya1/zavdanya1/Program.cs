@@ -19,16 +19,21 @@ namespace zavdanya1
             long b = 1;
             long fibonacciNumber;
 
-            Console.WriteLine(a);
-
-            for (int i = 2; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                fibonacciNumber = a + b;
-                Console.WriteLine(fibonacciNumber);
-
-                a = b;
-                b = fibonacciNumber;
+                if (i == 0)
+                {
+                    Console.WriteLine(a);
+                }
+                else
+                {
+                    Console.WriteLine(b);
+                    fibonacciNumber = a + b;
+                    a = b;
+                    b = fibonacciNumber;
+                }
             }
+
             Console.ReadLine();
         }
     }
